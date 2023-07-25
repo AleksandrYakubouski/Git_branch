@@ -7,4 +7,8 @@ Actual result:
 Expected resoult:
 Status:
 Author:
+<<<<<<< HEAD
 Attachment:
+=======
+Attachment:
+>>>>>>> 42e23060203cd64863325bc884e4c43335c7a13a
